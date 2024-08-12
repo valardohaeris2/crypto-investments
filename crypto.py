@@ -6,7 +6,7 @@ NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 
 STOCK_API_KEY = ""
 NEWS_API_KEY = ""
-TWILIO_SID = ""
+TWILIO_SID = "" 
 TWILIO_AUTH_TOKEN = ""
 
 crypto_params = {
