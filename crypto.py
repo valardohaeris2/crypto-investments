@@ -8,7 +8,7 @@ STOCK_API_KEY = ""
 NEWS_API_KEY = ""
 TWILIO_SID = "" 
 TWILIO_AUTH_TOKEN = ""
-
+ 
 crypto_params = {
     "function": "DIGITAL_CURRENCY_DAILY",
     "symbol": "ETH",
