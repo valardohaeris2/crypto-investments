@@ -19,4 +19,4 @@ crypto_params = {
 response = requests.get(STOCK_ENDPOINT, params=crypto_params)
 data = response.json()
 
-print(data)
+print(data) 
