@@ -2,7 +2,7 @@ import requests
 from twilio.rest import Client
  
 STOCK_ENDPOINT = "https://www.alphavantage.co/query/"   
-NEWS_ENDPOINT = "https://newsapi.org/v2/everything"     
+NEWS_ENDPOINT = "https://newsapi.org/v2/everything"      
 
 STOCK_API_KEY = ""
 NEWS_API_KEY = ""
