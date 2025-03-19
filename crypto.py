@@ -10,7 +10,7 @@ TWILIO_SID = ""
 TWILIO_AUTH_TOKEN = ""     
  
 crypto_params = {
-    "function": "DIGITAL_CURRENCY_DAILY",    
+    "function": "DIGITAL_CURRENCY_DAILY",     
     "symbol": "ETH",
     "market": "USD",
     "apikey": STOCK_API_KEY,
