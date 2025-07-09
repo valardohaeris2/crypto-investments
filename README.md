@@ -1,2 +1,2 @@
 # crypto-investments
-Python script for sms notifications on crypto currency market fluctuations 
+Python script for sms notifications on crypto currency market fluctuations. 
